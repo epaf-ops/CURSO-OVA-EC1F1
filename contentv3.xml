@@ -172,9 +172,10 @@
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
            <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/diseno_instruccional_2.jpg&quot; alt=&quot;&quot; width=&quot;706&quot; height=&quot;299&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;El curso pretende ofrecer al docente conocimientos básicos de &lt;strong&gt;DISEÑO INSTRUCCIONA&lt;/strong&gt;L para poner en práctica, bajo una metodología, &lt;strong&gt;OBJETOS Y&lt;/strong&gt; &lt;strong&gt;HERRAMIENTAS DIGITALES&lt;/strong&gt; que le permita enriquecer el ambiente de aprendizaje virtual al crear material interactivo como estrategia de mediación didáctica para el fortalecimiento de su quehacer pedagógico.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Este curso se ha diseñado con el propósito de reforzar en los docentes la apropiación de las TICs y orientarlos para crear entornos virtuales de aprendizaje más dinámicos e interactivos, por lo que se proveen alternativas de aprendizaje que permitan en los estudiantes el desarrollo de habilidades y destrezas cognitivas y conduzcan a un aprendizaje significativo.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+&lt;h5 style=&quot;text-align: justify;&quot;&gt;El curso pretende ofrecer al docente conocimientos básicos de &lt;strong&gt;DISEÑO INSTRUCCIONA&lt;/strong&gt;L para poner en práctica, bajo una metodología, &lt;strong&gt;OBJETOS Y&lt;/strong&gt; &lt;strong&gt;HERRAMIENTAS DIGITALES&lt;/strong&gt; que le permita enriquecer el ambiente de aprendizaje virtual al crear material interactivo como estrategia de mediación didáctica para el fortalecimiento de su quehacer pedagógico.&lt;/h5&gt;
+&lt;h5 style=&quot;text-align: justify;&quot;&gt;Este curso se ha diseñado con el propósito de reforzar en los docentes la apropiación de las TICs y orientarlos para crear entornos virtuales de aprendizaje más dinámicos e interactivos, por lo que se proveen alternativas de aprendizaje que permitan en los estudiantes el desarrollo de habilidades y destrezas cognitivas y conduzcan a un aprendizaje significativo.&lt;/h5&gt;
+&lt;h5 style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Explora la información&lt;/strong&gt; que se te otorga, tanto directamente&lt;strong&gt; en la pantalla como a través de textos realzados en &lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;azul&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: #3366ff; font-size: 14pt;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/h5&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;resources/logo_ues.jpg&quot; alt=&quot;UES&quot; width=&quot;197&quot; height=&quot;101&quot; style=&quot;float: right;&quot; /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
@@ -197,7 +198,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="593"></int>
+                  <int value="1059"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -211,7 +212,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_113_2.33"></unicode>
+                <unicode value="0_113_2.37"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -222,7 +223,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="diseno_instruccional_2.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\diseno_instruccional_2.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\diseno_instruccional_2.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5e10770561c7f597462d080cd09386af"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -249,7 +250,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="595"></int>
+                  <int value="1063"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -263,7 +264,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_113_2.34"></unicode>
+                <unicode value="0_113_2.38"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="6">
                  <dictionary>
@@ -274,7 +275,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="logo_ues.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\logo_ues.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\logo_ues.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -303,7 +304,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="35"></int>
+           <int value="39"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -562,11 +563,11 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El&lt;strong&gt; DISEÑO INSTRUCCIONAL&lt;/strong&gt; es el proceso a través del cual se crea un ambiente virtual así como los materiales necesarios para promover un aprendizaje significativo, atractivo y eficaz para los estudiantes. Es una guía que parte del diagnóstico de las necesidades y que permite la planificación del aprendizaje y del enfoque que se le dará a través del diseño e implementación de las actividades.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Un diseño instruccional adecuado permitirá seleccionar las herramientas o alternativas más apropiadas para adaptar el contenido a las necesidades de aprendizaje requeridas según el contexto. Este diseño debe dar énfasis a establecer materiales estructurados que sean autónomos y aptos para ser utilizados múltiples veces sin requerir ajustes continuamente.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Uno de los modelos más utilizados para el diseño de ambientes &lt;strong&gt;e-learning&lt;/strong&gt; es el &lt;strong&gt;Modelo ADDIE &lt;/strong&gt;(&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;A&lt;/span&gt;&lt;/strong&gt;nalizar, &lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;D&lt;/span&gt;&lt;/strong&gt;iseñar, &lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;D&lt;/span&gt;&lt;/strong&gt;esarrollar, &lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;I&lt;/span&gt;&lt;/strong&gt;mplementar, &lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;E&lt;/span&gt;&lt;/strong&gt;valuar).&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;El&lt;strong&gt; DISEÑO INSTRUCCIONAL&lt;/strong&gt; es el proceso a través del cual se crea un ambiente virtual así como los materiales necesarios para promover un aprendizaje significativo, atractivo y eficaz para los estudiantes. Es una guía que parte del diagnóstico de las necesidades y que permite la planificación del aprendizaje y del enfoque que se le dará a través del diseño e implementación de las actividades.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Un diseño instruccional adecuado permitirá seleccionar las herramientas o alternativas más apropiadas para adaptar el contenido a las necesidades de aprendizaje requeridas según el contexto. Este diseño debe dar énfasis a establecer materiales estructurados que sean autónomos y aptos para ser utilizados múltiples veces sin requerir ajustes continuamente.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Uno de los modelos más utilizados para el diseño de ambientes &lt;strong&gt;e-learning&lt;/strong&gt; es el &lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Modelo ADDIE&lt;/span&gt; &lt;/strong&gt;(&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;A&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;nalizar, &lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;D&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;iseñar, &lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;D&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;esarrollar, &lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;I&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;mplementar, &lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;E&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;valuar).&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-carousel&quot;&gt;
-&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #e37c0e;&quot;&gt;FASE 1&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #e37c0e;&quot;&gt;FASE 1&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/MODELO_addie_ANALIZAR.jpg&quot; alt=&quot;&quot; width=&quot;467&quot; height=&quot;488&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #de870d;&quot;&gt;FASE 2&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;resources/MODELO_addie_DISENAR.jpg&quot; alt=&quot;&quot; width=&quot;467&quot; height=&quot;244&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
@@ -597,7 +598,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="597"></int>
+                     <int value="1065"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -611,7 +612,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="10_108_2.92"></unicode>
+                   <unicode value="10_108_2.102"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="12">
                     <dictionary>
@@ -622,7 +623,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="MODELO_addie_ANALIZAR.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\MODELO_addie_ANALIZAR.jpg"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\MODELO_addie_ANALIZAR.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5e8690a25d8508a6b91786f1f7b96c29"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -649,7 +650,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="598"></int>
+                     <int value="1066"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -663,7 +664,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="10_108_2.93"></unicode>
+                   <unicode value="10_108_2.103"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
@@ -674,7 +675,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="MODELO_addie_DISENAR.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\MODELO_addie_DISENAR.jpg"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\MODELO_addie_DISENAR.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a97ea0bb1d89a2c5979b7df1f5120067"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -701,7 +702,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="599"></int>
+                     <int value="1067"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -715,7 +716,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="10_108_2.94"></unicode>
+                   <unicode value="10_108_2.104"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
@@ -726,7 +727,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="MODELO_addie_ESARROLLAR.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\MODELO_addie_ESARROLLAR.jpg"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\MODELO_addie_ESARROLLAR.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d0b0555f52e77972cf6c6ed97f36792f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -753,7 +754,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="600"></int>
+                     <int value="1068"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -767,7 +768,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="10_108_2.95"></unicode>
+                   <unicode value="10_108_2.105"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="15">
                     <dictionary>
@@ -778,7 +779,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="MODELO_addie_EVALUAR.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\MODELO_addie_EVALUAR.jpg"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\MODELO_addie_EVALUAR.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d16b7211bdece2d7a72e2afcfb7b5de4"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -805,7 +806,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="601"></int>
+                     <int value="1069"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -819,7 +820,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="10_108_2.96"></unicode>
+                   <unicode value="10_108_2.106"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="16">
                     <dictionary>
@@ -830,7 +831,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="MODELO_addie_IMPLEMENTAR.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\MODELO_addie_IMPLEMENTAR.jpg"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\MODELO_addie_IMPLEMENTAR.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e1269aba4d2774f3afa413317b0899f3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -859,7 +860,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="97"></int>
+              <int value="107"></int>
               <string role="key" value="parentNode"></string>
               <reference key="11"></reference>
              </dictionary>
@@ -969,8 +970,8 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p&gt;Identificar las características de varios modelos de Diseño Instruccional basados en teorías del aprendizaje y tecnología educativa.&lt;/p&gt;
-&lt;p&gt;Para lo cual, debe Leer el documento &lt;a href=&quot;https://www.uv.es/bellochc/pedagogia/EVA4.pdf&quot; title=&quot;Diseño Instruccional&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/documento.png&quot; alt=&quot;&quot; width=&quot;69&quot; height=&quot;46&quot; /&gt;&lt;/a&gt;de Consuelo Belloch. Posterior a la lectura, resuelva los siguientes ejercicios.&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Identificar las características de varios modelos de Diseño Instruccional basados en teorías del aprendizaje y tecnología educativa.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Para lo cual, debe Leer el documento Diseño Instruccional &lt;a href=&quot;https://www.uv.es/bellochc/pedagogia/EVA4.pdf&quot; title=&quot;Diseño Instruccional&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; style=&quot;color: #000000;&quot;&gt;&lt;img src=&quot;resources/documento.png&quot; alt=&quot;&quot; width=&quot;69&quot; height=&quot;46&quot; /&gt;&lt;/a&gt;de Consuelo Belloch. Posterior a la lectura, resuelva los siguientes ejercicios.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -990,7 +991,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="594"></int>
+                     <int value="1060"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1004,7 +1005,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="11_108_2.18"></unicode>
+                   <unicode value="11_108_2.20"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="19">
                     <dictionary>
@@ -1015,7 +1016,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="documento.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\documento.png"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\documento.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a1a94e03d0a07949041e358a060e9009"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1044,7 +1045,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="19"></int>
+              <int value="21"></int>
               <string role="key" value="parentNode"></string>
               <reference key="11"></reference>
              </dictionary>
@@ -1178,7 +1179,7 @@ as these can tend to be ambiguous."></unicode>
                 <string role="key" value="class_"></string>
                 <string value="block question"></string>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;¿Cuál de estos Modelos considera que para lograr un verdadero aprendizaje debe implicarse &lt;strong&gt;varios elementos&lt;/strong&gt; que conforman la teoría de &lt;strong&gt;estímulo-respuesta?&lt;/strong&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;¿Cuál de estos Modelos considera que para lograr un verdadero aprendizaje debe implicarse &lt;strong&gt;varios elementos&lt;/strong&gt; que conforman la teoría de &lt;strong&gt;estímulo-respuesta?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1287,7 +1288,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="anchors_linked_from_fields"></string>
                    <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
-                   <unicode content="true" value="&lt;p&gt;Modelo de Gadné&lt;/p&gt;"></unicode>
+                   <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Modelo de Gadné&lt;/span&gt;&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                    <int value="4"></int>
                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1395,7 +1396,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="anchors_linked_from_fields"></string>
                    <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
-                   <unicode content="true" value="&lt;p&gt;Modelo de Jonassen&lt;/p&gt;"></unicode>
+                   <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Modelo de Jonassen&lt;/span&gt;&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                    <int value="4"></int>
                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1503,7 +1504,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="anchors_linked_from_fields"></string>
                    <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
-                   <unicode content="true" value="&lt;p&gt;Modelo de Heinich y Col&lt;/p&gt;"></unicode>
+                   <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Modelo de Heinich y Col&lt;/span&gt;&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                    <int value="4"></int>
                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1611,7 +1612,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="anchors_linked_from_fields"></string>
                    <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
-                   <unicode content="true" value="&lt;p&gt;Modelo de Dick y Carey&lt;/p&gt;"></unicode>
+                   <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Modelo de Dick y Carey&lt;/span&gt;&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                    <int value="4"></int>
                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1733,7 +1734,7 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="class_"></string>
              <string value="block instructions"></string>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="Lea el párrafo que aparece abajo y complete las palabras que faltan."></unicode>
+             <unicode content="true" value="&lt;h5&gt;Lea el párrafo que aparece abajo y complete las palabras que faltan.&lt;/h5&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1767,7 +1768,7 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="_checkCapsInstruc"></string>
              <unicode value="&lt;p&gt;If this option is checked, submitted answers with different capitalization will be marked as incorrect.&lt;/p&gt;"></unicode>
              <string role="key" value="_encodedContent"></string>
-             <unicode value="&lt;p style=&quot;text-align: justify;&quot;&gt;Uno de los modelos enfatiza que para la construcción de su conocimiento, el estudiante debe &lt;strong&gt;aprender haciendo,&lt;/strong&gt; y  determina que el centro de cualquier ambiente de aprendizaje constructivista es la  &lt;u&gt;pregunta&lt;/u&gt;  ,  &lt;u&gt;caso&lt;/u&gt;  ,  &lt;u&gt;problema&lt;/u&gt;  o  &lt;u&gt;proyecto&lt;/u&gt;  que se convierte en la meta del estudiante a resolver.&lt;/p&gt;"></unicode>
+             <unicode value="&lt;p style=&quot;text-align: justify;&quot;&gt;Uno de los modelos enfatiza que para la construcción de su conocimiento, el estudiante debe &lt;strong&gt;aprender haciendo,&lt;/strong&gt; y  determina que el centro de cualquier ambiente de aprendizaje constructivista es la   &lt;u&gt;pregunta&lt;/u&gt;   ,   &lt;u&gt;caso&lt;/u&gt;   ,   &lt;u&gt;problema&lt;/u&gt;   o   &lt;u&gt;proyecto&lt;/u&gt;   que se convierte en la meta del estudiante a resolver.&lt;/p&gt;"></unicode>
              <string role="key" value="_id"></string>
              <int value="105"></int>
              <string role="key" value="_idevice"></string>
@@ -1792,7 +1793,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="checkCaps"></string>
              <bool value="0"></bool>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;Uno de los modelos enfatiza que para la construcción de su conocimiento, el estudiante debe &lt;strong&gt;aprender haciendo,&lt;/strong&gt; y  determina que el centro de cualquier ambiente de aprendizaje constructivista es la &lt;u&gt;pregunta&lt;/u&gt; , &lt;u&gt;caso&lt;/u&gt; , &lt;u&gt;problema&lt;/u&gt; o &lt;u&gt;proyecto&lt;/u&gt; que se convierte en la meta del estudiante a resolver.&lt;/p&gt;"></unicode>
+             <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;Uno de los modelos enfatiza que para la construcción de su conocimiento, el estudiante debe &lt;strong&gt;aprender haciendo,&lt;/strong&gt; y  determina que el centro de cualquier ambiente de aprendizaje constructivista es la  &lt;u&gt;pregunta&lt;/u&gt;  ,  &lt;u&gt;caso&lt;/u&gt;  ,  &lt;u&gt;problema&lt;/u&gt;  o  &lt;u&gt;proyecto&lt;/u&gt;  que se convierte en la meta del estudiante a resolver.&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.ClozeField.persistenceVersion"></string>
              <int value="3"></int>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1819,23 +1820,23 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="parts"></string>
              <list>
               <tuple>
-               <unicode value="&lt;p style=&quot;text-align: justify;&quot;&gt;Uno de los modelos enfatiza que para la construcción de su conocimiento, el estudiante debe &lt;strong&gt;aprender haciendo,&lt;/strong&gt; y  determina que el centro de cualquier ambiente de aprendizaje constructivista es la "></unicode>
+               <unicode value="&lt;p style=&quot;text-align: justify;&quot;&gt;Uno de los modelos enfatiza que para la construcción de su conocimiento, el estudiante debe &lt;strong&gt;aprender haciendo,&lt;/strong&gt; y  determina que el centro de cualquier ambiente de aprendizaje constructivista es la  "></unicode>
                <unicode value="pregunta"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" , "></unicode>
+               <unicode value="  ,  "></unicode>
                <unicode value="caso"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" , "></unicode>
+               <unicode value="  ,  "></unicode>
                <unicode value="problema"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" o "></unicode>
+               <unicode value="  o  "></unicode>
                <unicode value="proyecto"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" que se convierte en la meta del estudiante a resolver.&lt;/p&gt;"></unicode>
+               <unicode value="  que se convierte en la meta del estudiante a resolver.&lt;/p&gt;"></unicode>
                <string value=""></string>
               </tuple>
              </list>
@@ -2120,7 +2121,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: right;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;exe-node:Dise%C3%B1o%20de%20Objetos%20Virtuales%20de%20Aprendizaje%20%28OVA%29:Dise%C3%B1o%20Instruccional%3A%20Fase%201%20Analizar.#auto_top&quot;&gt;&lt;span style=&quot;color: #003366;&quot;&gt;Fase 1 Analizar del Modelo ADDIE&lt;/span&gt;.&lt;/a&gt; &lt;a href=&quot;exe-node:Dise%C3%B1o%20de%20Objetos%20Virtuales%20de%20Aprendizaje%20%28OVA%29:Dise%C3%B1o%20Instruccional%3A%20Fase%201%20Analizar.#auto_top&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/siguiente.jpg&quot; alt=&quot;&quot; width=&quot;52&quot; height=&quot;53&quot; /&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: right;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;exe-node:Dise%C3%B1o%20de%20Objetos%20Virtuales%20de%20Aprendizaje%20%28OVA%29:Dise%C3%B1o%20Instruccional%3A%20Fase%201%20Analizar.#auto_top&quot;&gt;&lt;span style=&quot;color: #003366;&quot;&gt;Fase 1 Analizar del Modelo ADDIE&lt;/span&gt;.&lt;/a&gt; &lt;a href=&quot;exe-node:Dise%C3%B1o%20de%20Objetos%20Virtuales%20de%20Aprendizaje%20%28OVA%29:Dise%C3%B1o%20Instruccional%3A%20Fase%201%20Analizar.#auto_top&quot;&gt;&lt;img src=&quot;resources/siguiente.jpg&quot; alt=&quot;&quot; width=&quot;52&quot; height=&quot;53&quot; /&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2133,7 +2134,60 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <instance class="exe.engine.galleryidevice.GalleryImages">
                <dictionary>
                 <string role="key" value=".listitems"></string>
-                <list></list>
+                <list>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="1072"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="27_108_2.1"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="70">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="38"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="siguiente.jpg"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\siguiente.jpg"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="39"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                </list>
                 <string role="key" value="idevice"></string>
                 <reference key="39"></reference>
                </dictionary>
@@ -2228,7 +2282,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
 &lt;/div&gt;
 &lt;div class=&quot;exe-col exe-col-2&quot;&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;identificación&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Partimos de que el público destinatario es el estudiante universitario, específicamente de &lt;a href=&quot;https://ues.mx/?p=especiales/ofertaeducativa/&amp;amp;cid=0&amp;amp;sid=3&amp;amp;smid=14&amp;amp;latder=0&amp;amp;params=tipopa=I&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;UES&lt;/a&gt; y de la asignatura que imparte en la Institución. Esto nos permitirá identificar y clasificar los elementos para definir el contenido y el enfoque para el diseño de actividades orientadas a un ambiente virtual.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Partimos de que el público destinatario es el estudiante universitario, específicamente de&lt;/span&gt; &lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://ues.mx/?p=especiales/ofertaeducativa/&amp;amp;cid=0&amp;amp;sid=3&amp;amp;smid=14&amp;amp;latder=0&amp;amp;params=tipopa=I&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;UES&lt;/a&gt; &lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;y de la asignatura que imparte en la Institución. Esto nos permitirá identificar y clasificar los elementos para definir el contenido y el enfoque para el diseño de actividades orientadas a un ambiente virtual.&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
@@ -2252,7 +2306,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="587"></int>
+                              <int value="1054"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -2266,7 +2320,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="18_115_2.43"></unicode>
+                            <unicode value="18_115_2.51"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="43">
                              <dictionary>
@@ -2277,7 +2331,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                               <string role="key" value="_storageName"></string>
                               <string value="analisis_de_contenido.jpg"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\analisis_de_contenido.jpg"></string>
+                              <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\analisis_de_contenido.jpg"></string>
                               <string role="key" value="checksum"></string>
                               <string value="83e3d459668210d9fb26d23ed31da37c"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2304,7 +2358,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="596"></int>
+                              <int value="1061"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -2318,7 +2372,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="18_115_2.45"></unicode>
+                            <unicode value="18_115_2.52"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="44">
                              <dictionary>
@@ -2327,11 +2381,11 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
-                              <string value="logo_ues.jpg"></string>
+                              <string value="estudiantes.gif"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\logo_ues.jpg"></string>
+                              <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\estudiantes.gif"></string>
                               <string role="key" value="checksum"></string>
-                              <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
+                              <string value="50089b7b60389313790ccd1f1d1d0259"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                               <int value="2"></int>
                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -2356,7 +2410,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="611"></int>
+                              <int value="1064"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -2370,7 +2424,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="18_115_2.47"></unicode>
+                            <unicode value="18_115_2.53"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="45">
                              <dictionary>
@@ -2379,11 +2433,11 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
-                              <string value="estudiantes.gif"></string>
+                              <string value="logo_ues.jpg"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp248zop.eXe\\previews\\allyourbase\\estudiantes.gif"></string>
+                              <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\logo_ues.jpg"></string>
                               <string role="key" value="checksum"></string>
-                              <string value="50089b7b60389313790ccd1f1d1d0259"></string>
+                              <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                               <int value="2"></int>
                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -2410,7 +2464,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="48"></int>
+                       <int value="54"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="42"></reference>
                       </dictionary>
@@ -2518,27 +2572,27 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                        <string role="key" value="anchors_linked_from_fields"></string>
                        <dictionary></dictionary>
                        <string role="key" value="content_w_resourcePaths"></string>
-                       <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Determinar por medio de un diagrama el contenido de posibles actividades virtuales a ser diseñadas &lt;a href=&quot;https://ues.mx/?p=especiales/ofertaeducativa/&amp;amp;cid=0&amp;amp;sid=3&amp;amp;smid=14&amp;amp;latder=0&amp;amp;params=tipopa=I&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;para su asignatura,&lt;/a&gt; de forma que permita al estudiante adquirir adecuadamente la competencia.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Para desarrollar el diagrama considere lo siguiente:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;1.-&lt;/strong&gt; Seleccionar un Elemento de Competencia de la Secuencia Didáctica de su asignatura para tener claro en relación a qué tema se diseñarán las actividades.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;2.-&lt;/strong&gt; Independiente de las actividades ya establecidas en ese Elemento de Competencia, identificar otras posibles actividades para reforzar la competencia en los estudiantes. Considere que estas nuevas actividades son para llevarse a cabo totalmente en un  ambiente virtual. Haga un listado de ellas. Para facilitar la identificación de posibles actividades:&lt;/p&gt;
+                       <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Determinar por medio de un diagrama el contenido de posibles actividades virtuales a ser diseñadas &lt;/span&gt;&lt;a href=&quot;https://ues.mx/?p=especiales/ofertaeducativa/&amp;amp;cid=0&amp;amp;sid=3&amp;amp;smid=14&amp;amp;latder=0&amp;amp;params=tipopa=I&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;para su asignatura,&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;de forma que permita al estudiante adquirir adecuadamente la competencia.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Para desarrollar el diagrama considere lo siguiente:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;1.-&lt;/strong&gt; Seleccionar un Elemento de Competencia de la Secuencia Didáctica de su asignatura para tener claro en relación a qué tema se diseñarán las actividades.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;2.-&lt;/strong&gt; Independiente de las actividades ya establecidas en ese Elemento de Competencia, identificar otras posibles actividades para reforzar la competencia en los estudiantes. Considere que estas nuevas actividades son para llevarse a cabo totalmente en un  ambiente virtual. Haga un listado de ellas. Para facilitar la identificación de posibles actividades:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Identifique competencias laborales que los estudiantes deben aprender o mejorar.&lt;/li&gt;
-&lt;li&gt;o Identifique conocimientos y habilidades que deben desarrollar o reforzar.&lt;/li&gt;
-&lt;li&gt;Crear escenarios basados en casos de contextos laborales realistas.&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Identifique competencias laborales que los estudiantes deben aprender o mejorar.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;o Identifique conocimientos y habilidades que deben desarrollar o reforzar.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Crear escenarios basados en casos de contextos laborales realistas.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;3.-&lt;/strong&gt; Para afinar el bosquejo, clasificar ese listado según el tipo de contenido que representará cada actividad de aprendizaje:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;3.-&lt;/strong&gt; Para afinar el bosquejo, clasificar ese listado según el tipo de contenido que representará cada actividad de aprendizaje:&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img src=&quot;resources/Tipo_de_Contenido.png&quot; alt=&quot;&quot; width=&quot;764&quot; height=&quot;276&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;4.-&lt;/strong&gt; Del listado que ha generado, seleccione una actividad cuyo contenido de aprendizaje será preferentemente del tipo Principios (Pautas). Y analizar específicamente cuál podría ser el contenido total para esa actividad, el cual debe ser preciso y pertinente para con ello definir posteriormente las estrategias de enseñanza y medios para desarrollarla como una actividad pedagógica que permita transferir la información a los estudiantes.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;5.-&lt;/strong&gt; Describir el contenido en forma de &lt;a href=&quot;#t380b6979-52ce-c93d-4a58-a5e34b4ef809&quot; id=&quot;link380b6979-52ce-c93d-4a58-a5e34b4ef809&quot; class=&quot;exe-tooltip definition-tt&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;directrices&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt; que debe aplicar para esa tarea o adquisición de conocimientos y habilidades. Adicional a las directrices, debe tener en cuenta l&lt;span style=&quot;text-align: left;&quot;&gt;os conocimientos y habilidades que deben tener los alumnos para el logro de cada una de ellas.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Las directrices y los elementos de conocimientos asociados compondrán finalmente el contenido de la actividad. La información que se plasme en el diagrama es indispensable para trabajar con la siguiente fase de diseño. Por lo que, se sugiere realizar un diagrama de datos (verificar material de apoyo &lt;em&gt;Ejemplo de Análisis&lt;/em&gt;) que contenga:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;4.-&lt;/strong&gt; Del listado que ha generado, seleccione una actividad cuyo contenido de aprendizaje será preferentemente del tipo Principios (Pautas). Y analizar específicamente cuál podría ser el contenido total para esa actividad, el cual debe ser preciso y pertinente para con ello definir posteriormente las estrategias de enseñanza y medios para desarrollarla como una actividad pedagógica que permita transferir la información a los estudiantes.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;5.-&lt;/strong&gt; Describir el contenido en forma de&lt;/span&gt; &lt;a href=&quot;#t380b6979-52ce-c93d-4a58-a5e34b4ef809&quot; id=&quot;link380b6979-52ce-c93d-4a58-a5e34b4ef809&quot; class=&quot;exe-tooltip definition-tt&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;directrices&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;que debe aplicar para esa tarea o adquisición de conocimientos y habilidades. Adicional a las directrices, debe tener en cuenta l&lt;span style=&quot;text-align: left;&quot;&gt;os conocimientos y habilidades que deben tener los alumnos para el logro de cada una de ellas.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Las directrices y los elementos de conocimientos asociados compondrán finalmente el contenido de la actividad. La información que se plasme en el diagrama es indispensable para trabajar con la siguiente fase de diseño. Por lo que, se sugiere realizar un diagrama de datos (verificar material de apoyo &lt;em&gt;Ejemplo de Análisis&lt;/em&gt;) que contenga:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;&lt;strong&gt;ELEMENTO DE COMPETENCIA&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Descripción del conocimiento&lt;span style=&quot;font-size: 10pt;&quot;&gt; o habilidad a aprender, desarrollar o reforzar.&lt;/span&gt;     &lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Directrices.     &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Conocimientos necesarios.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;6.-&lt;/strong&gt; Una vez desarrollado el diagrama, conserve la evidencia porque será el recurso básico para la&lt;a href=&quot;exe-node:Dise%C3%B1o%20de%20Objetos%20Virtuales%20de%20Aprendizaje%20%28OVA%29:Dise%C3%B1o%20Instruccional%3A%20Fase%202%20Dise%C3%B1ar.#auto_top&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt; Fase 2 Diseñar del Modelo ADDIE&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;6.-&lt;/strong&gt; Una vez desarrollado el diagrama, conserve la evidencia porque será el recurso básico para la&lt;/span&gt;&lt;a href=&quot;exe-node:Dise%C3%B1o%20de%20Objetos%20Virtuales%20de%20Aprendizaje%20%28OVA%29:Dise%C3%B1o%20Instruccional%3A%20Fase%202%20Dise%C3%B1ar.#auto_top&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt; Fase 2 Diseñar del Modelo ADDIE&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div id=&quot;t380b6979-52ce-c93d-4a58-a5e34b4ef809&quot; class=&quot;exe-tooltip-text&quot;&gt;
 &lt;p&gt;Normas o instrucciones que deben seguir los estudiantes para lograr el aprendizaje.&lt;/p&gt;
@@ -2563,7 +2617,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="605"></int>
+                              <int value="1073"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -2577,20 +2631,20 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="19_116_2.5"></unicode>
+                            <unicode value="19_116_2.9"></unicode>
                             <string role="key" value="_imageResource"></string>
-                            <instance class="exe.engine.resource.Resource" reference="65">
+                            <instance class="exe.engine.resource.Resource" reference="66">
                              <dictionary>
                               <string role="key" value="_idevice"></string>
                               <reference key="46"></reference>
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
-                              <string value="Tipo_de_Contenido.png"></string>
+                              <string value="siguiente.jpg"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\Tipo_de_Contenido.png"></string>
+                              <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\siguiente.jpg"></string>
                               <string role="key" value="checksum"></string>
-                              <string value="02e49c22cae6202ea839b46d287332eb"></string>
+                              <string value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                               <int value="2"></int>
                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -2615,7 +2669,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="607"></int>
+                              <int value="1076"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -2629,20 +2683,20 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="19_116_2.6"></unicode>
+                            <unicode value="19_116_2.10"></unicode>
                             <string role="key" value="_imageResource"></string>
-                            <instance class="exe.engine.resource.Resource" reference="66">
+                            <instance class="exe.engine.resource.Resource" reference="67">
                              <dictionary>
                               <string role="key" value="_idevice"></string>
                               <reference key="46"></reference>
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
-                              <string value="siguiente.jpg"></string>
+                              <string value="Tipo_de_Contenido.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp248zop.eXe\\previews\\allyourbase\\siguiente.jpg"></string>
+                              <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\Tipo_de_Contenido.png"></string>
                               <string role="key" value="checksum"></string>
-                              <string value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
+                              <string value="02e49c22cae6202ea839b46d287332eb"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                               <int value="2"></int>
                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -2750,7 +2804,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                 <dictionary></dictionary>
                                 <string role="key" value="content_w_resourcePaths"></string>
                                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Antes de la etapa de Desarrollo, como parte del diseño, se deberán definir estrategias y técnicas si se desea crear contenido interactivo para un trabajo autodirigido (con gráficos, animaciones, pruebas, elementos de comunicación, etc.). &lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;El diseño en e-learning incluye una combinación de&lt;/span&gt; &lt;a href=&quot;https://drive.google.com/file/d/10lfF9SK4RqLyOPYY33ajtMKsajr_UxyV/view?usp=sharing&quot;&gt;Estrategias de Formación&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;o metodologías pedagógicas. Cada estrategia puede presentarse en distintas técnicas, empleando diversos tipos de medios y herramientas comunicacionales.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;El diseño en e-learning incluye una combinación de &lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/10lfF9SK4RqLyOPYY33ajtMKsajr_UxyV/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Estrategias de Formación&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;o metodologías pedagógicas. Cada estrategia puede presentarse en distintas técnicas, empleando diversos tipos de medios y herramientas comunicacionales.&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Estrategia Tradicional / Expositivo&lt;strong&gt;&lt;/strong&gt;&lt;/h2&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A través de estas estrategias se obliga a los alumnos a escuchar, leer y observar sobre un tema determinado (presentaciones, ejemplos desarrollados y demostraciones). Estas ponen énfasis en la adquisición de información pero pueden combinarse con estrategias de aprendizaje activo. Se emplean normalmente para proporcionar orientación y conceptos básicos antes de la etapa más práctica o compleja:&lt;/span&gt;&lt;/p&gt;
@@ -2773,10 +2827,10 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
 &lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Investigación-Acción:&lt;/strong&gt; Investigación guiada, aplicable a diferentes actividades.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Adicional a la &lt;strong&gt;Estrategia Pedagógica&lt;/strong&gt; debe tener en cuenta la &lt;strong&gt;Estrategia de Entrega &lt;/strong&gt;y la&lt;strong&gt; Estrategia de Evaluación.&lt;/strong&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Adicional a la &lt;strong&gt;Estrategia Pedagógica&lt;/strong&gt; debe tener en cuenta la &lt;strong&gt;Estrategia de Entrega &lt;/strong&gt;y la&lt;strong&gt; Estrategia de Evaluación.&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;Para seleccionar el formato de presentación es relevante considerar la comodidad de los estudiantes con los canales de presentación, su disponibilidad de tiempo (horario de trabajo o compartir equipo a ciertas horas), el acceso de los estudiantes a sistemas de redes, el tipo de software o requerimientos técnicos que se requieren, entre otros factores.&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;Se debe determinar el propósito de la evaluación: Examinar posteriormente (evaluación sumativa), o medir efectividad del aprendizaje de manera inmediata (evaluación formativa).&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Para seleccionar el formato de presentación es relevante considerar la comodidad de los estudiantes con los canales de presentación, su disponibilidad de tiempo (horario de trabajo o compartir equipo a ciertas horas), el acceso de los estudiantes a sistemas de redes, el tipo de software o requerimientos técnicos que se requieren, entre otros factores.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Se debe determinar el propósito de la evaluación: Examinar posteriormente (evaluación sumativa), o medir efectividad del aprendizaje de manera inmediata (evaluación formativa).&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Las actividades de e-learning pueden ser sincrónicas o asincrónicas&lt;/span&gt;&lt;/p&gt;
@@ -2798,7 +2852,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;De acuerdo a la &lt;strong&gt;taxonomía del dominio cognitivo de Bloom&lt;/strong&gt;, las actividades de aprendizaje supondrían diferentes tipos de desempeño cognitivo, desde el nivel más bajo de desempeño (Recordar o memorizar información) al más alto (Crear algo nuevo o idear un nuevo enfoque). En la siguiente imagen puede observar posibles verbos y tipo de actividad a considerar según el dominio cognitivo.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/taxonomia_de_bloom.jpg&quot; alt=&quot;&quot; width=&quot;940&quot; height=&quot;940&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Es importante denotar que estos son solamente ejemplos, existen otros verbos, así como recursos digitales que se pueden utilizar para el desarrollo de actividades.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Es importante denotar que estos son solamente ejemplos, existen otros verbos, así como recursos digitales que se pueden utilizar para el desarrollo de actividades.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;exe-node:Dise%C3%B1o%20de%20Objetos%20Virtuales%20de%20Aprendizaje%20%28OVA%29:Recurso%20Educativo%20u%20Objeto%20Virtual%3A%20Componente%20e-learning#auto_top&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #003366;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;a href=&quot;exe-node:Dise%C3%B1o%20de%20Objetos%20Virtuales%20de%20Aprendizaje%20%28OVA%29:Recurso%20Educativo%20u%20Objeto%20Virtual%3A%20Componente%20e-learning#auto_top&quot;&gt;&lt;img src=&quot;resources/siguiente.jpg&quot; alt=&quot;&quot; width=&quot;52&quot; height=&quot;53&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                 <int value="4"></int>
@@ -2819,7 +2873,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                      <instance class="exe.engine.field.TextField">
                                       <dictionary>
                                        <string role="key" value="_id"></string>
-                                       <int value="590"></int>
+                                       <int value="1056"></int>
                                        <string role="key" value="_idevice"></string>
                                        <none></none>
                                        <string role="key" value="_instruc"></string>
@@ -2833,7 +2887,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                       </dictionary>
                                      </instance>
                                      <string role="key" value="_id"></string>
-                                     <unicode value="20_117_2.40"></unicode>
+                                     <unicode value="20_117_2.49"></unicode>
                                      <string role="key" value="_imageResource"></string>
                                      <instance class="exe.engine.resource.Resource" reference="62">
                                       <dictionary>
@@ -2844,7 +2898,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                        <string role="key" value="_storageName"></string>
                                        <string value="comunicacion_asincrona.jpg"></string>
                                        <string role="key" value="_userName"></string>
-                                       <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\comunicacion_asincrona.jpg"></string>
+                                       <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\comunicacion_asincrona.jpg"></string>
                                        <string role="key" value="checksum"></string>
                                        <string value="04b0eb78fcdf2c59359c3980c1c11ab1"></string>
                                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2871,7 +2925,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                      <instance class="exe.engine.field.TextField">
                                       <dictionary>
                                        <string role="key" value="_id"></string>
-                                       <int value="604"></int>
+                                       <int value="1062"></int>
                                        <string role="key" value="_idevice"></string>
                                        <none></none>
                                        <string role="key" value="_instruc"></string>
@@ -2885,7 +2939,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                       </dictionary>
                                      </instance>
                                      <string role="key" value="_id"></string>
-                                     <unicode value="20_117_2.42"></unicode>
+                                     <unicode value="20_117_2.50"></unicode>
                                      <string role="key" value="_imageResource"></string>
                                      <instance class="exe.engine.resource.Resource" reference="63">
                                       <dictionary>
@@ -2894,11 +2948,11 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                        <string role="key" value="_package"></string>
                                        <reference key="2"></reference>
                                        <string role="key" value="_storageName"></string>
-                                       <string value="taxonomia_de_bloom.jpg"></string>
+                                       <string value="GIF2_1200x675_v2.0.gif"></string>
                                        <string role="key" value="_userName"></string>
-                                       <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\taxonomia_de_bloom.jpg"></string>
+                                       <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\GIF2_1200x675_v2.0.gif"></string>
                                        <string role="key" value="checksum"></string>
-                                       <string value="015ed014bc4d353fb58fd20c0d192901"></string>
+                                       <string value="90ccb2064e94de74ca2cb64309338fbd"></string>
                                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                                        <int value="2"></int>
                                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -2923,7 +2977,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                      <instance class="exe.engine.field.TextField">
                                       <dictionary>
                                        <string role="key" value="_id"></string>
-                                       <int value="609"></int>
+                                       <int value="1074"></int>
                                        <string role="key" value="_idevice"></string>
                                        <none></none>
                                        <string role="key" value="_instruc"></string>
@@ -2937,7 +2991,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                       </dictionary>
                                      </instance>
                                      <string role="key" value="_id"></string>
-                                     <unicode value="20_117_2.44"></unicode>
+                                     <unicode value="20_117_2.51"></unicode>
                                      <string role="key" value="_imageResource"></string>
                                      <instance class="exe.engine.resource.Resource" reference="64">
                                       <dictionary>
@@ -2946,11 +3000,63 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                        <string role="key" value="_package"></string>
                                        <reference key="2"></reference>
                                        <string role="key" value="_storageName"></string>
-                                       <string value="GIF2_1200x675_v2.0.gif"></string>
+                                       <string value="siguiente.jpg"></string>
                                        <string role="key" value="_userName"></string>
-                                       <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp248zop.eXe\\previews\\allyourbase\\GIF2_1200x675_v2.0.gif"></string>
+                                       <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\siguiente.jpg"></string>
                                        <string role="key" value="checksum"></string>
-                                       <string value="90ccb2064e94de74ca2cb64309338fbd"></string>
+                                       <string value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
+                                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="warningMsg"></string>
+                                       <string value=""></string>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_parent"></string>
+                                     <reference key="49"></reference>
+                                     <string role="key" value="_thumbnailResource"></string>
+                                     <none></none>
+                                     <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                     <int value="3"></int>
+                                     <string role="key" value="makeThumbnail"></string>
+                                     <bool value="0"></bool>
+                                    </dictionary>
+                                   </instance>
+                                   <instance class="exe.engine.galleryidevice.GalleryImage">
+                                    <dictionary>
+                                     <string role="key" value="_caption"></string>
+                                     <instance class="exe.engine.field.TextField">
+                                      <dictionary>
+                                       <string role="key" value="_id"></string>
+                                       <int value="1075"></int>
+                                       <string role="key" value="_idevice"></string>
+                                       <none></none>
+                                       <string role="key" value="_instruc"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="_name"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="content"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                       <int value="4"></int>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_id"></string>
+                                     <unicode value="20_117_2.52"></unicode>
+                                     <string role="key" value="_imageResource"></string>
+                                     <instance class="exe.engine.resource.Resource" reference="65">
+                                      <dictionary>
+                                       <string role="key" value="_idevice"></string>
+                                       <reference key="48"></reference>
+                                       <string role="key" value="_package"></string>
+                                       <reference key="2"></reference>
+                                       <string role="key" value="_storageName"></string>
+                                       <string value="taxonomia_de_bloom.jpg"></string>
+                                       <string role="key" value="_userName"></string>
+                                       <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\taxonomia_de_bloom.jpg"></string>
+                                       <string role="key" value="checksum"></string>
+                                       <string value="015ed014bc4d353fb58fd20c0d192901"></string>
                                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                                        <int value="2"></int>
                                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -3057,30 +3163,30 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                          <string role="key" value="anchors_linked_from_fields"></string>
                                          <dictionary></dictionary>
                                          <string role="key" value="content_w_resourcePaths"></string>
-                                         <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;El&lt;strong&gt; e-learning&lt;/strong&gt; dirigido y facilitado por un instructor integra varios componentes entre ellos contenido a un plan de estudios a través de una plataforma de aprendizaje en línea. Combina además tutoría en línea (e-tutoring), preparación en línea (e-coaching), asesoramiento en línea (e-mentoring), aprendizaje colaborativo y aula virtual. &lt;/span&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;Un elemento clave para el desarrollo de ambientes virtuales es la creación de objetos o recursos digitales.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;Los materiales didácticos digitales deben ser interesantes para el alumno y evitar en ellos la frustración. El material didáctico debe ser lo suficientemente específico e ilustrado con ejemplos de la vida cotidiana en la medida que le permita al estudiante estar motivado para profundizar en los contenidos que está aprendiendo. Siendo importante para ello, inducir a que explore de forma progresiva y presentar el contenido mediante varios tipos de objetos o recursos que deben complementarse uno a otro. Por lo tanto, el desarrollo de la creatividad en el material es fundamental.&lt;/span&gt;&lt;/p&gt;
+                                         <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;float: none; background-color: #ffffff; cursor: text; font-family: 'Encode Sans', Arial, Helvetica, sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;&quot;&gt;El&lt;strong&gt; e-learning&lt;/strong&gt; dirigido y facilitado por un instructor integra varios componentes entre ellos contenido a un plan de estudios a través de una plataforma de aprendizaje en línea. Combina además tutoría en línea (&lt;em&gt;e-tutoring&lt;/em&gt;), preparación en línea (&lt;em&gt;e-coaching&lt;/em&gt;), asesoramiento en línea (&lt;em&gt;e-mentoring&lt;/em&gt;), aprendizaje colaborativo y aula virtual. &lt;/span&gt;&lt;span style=&quot;float: none; background-color: #ffffff; cursor: text; font-family: 'Encode Sans', Arial, Helvetica, sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;&quot;&gt;Un elemento clave para el desarrollo de ambientes virtuales es la creación de objetos o recursos digitales.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;float: none; background-color: #ffffff; color: #000000; cursor: text; font-family: 'Encode Sans', Arial, Helvetica, sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;&quot;&gt;Los materiales didácticos digitales deben ser interesantes para el alumno y evitar en ellos la frustración. El material didáctico debe ser lo suficientemente específico e ilustrado con ejemplos de la vida cotidiana en la medida que le permita al estudiante estar motivado para profundizar en los contenidos que está aprendiendo. Siendo importante para ello, inducir a que explore de forma progresiva y presentar el contenido mediante varios tipos de objetos o recursos que deben complementarse uno a otro. Por lo tanto, el desarrollo de la creatividad en el material es fundamental.&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot; style=&quot;text-align: justify;&quot;&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;img src=&quot;resources/multimedia3.png&quot; alt=&quot;&quot; width=&quot;310&quot; height=&quot;137&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;Los &lt;strong&gt;Objetos Digitales&lt;/strong&gt; o &lt;strong&gt;Recursos de e-learning&lt;/strong&gt; pueden ser &lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;a href=&quot;#te685aef8-a115-5ce8-0bbc-016afc8a39cb&quot; id=&quot;linke685aef8-a115-5ce8-0bbc-016afc8a39cb&quot; class=&quot;exe-tooltip definition-tt&quot; style=&quot;color: #3366ff;&quot;&gt;recursos simples de aprendizaje&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;#td1af23cc-f098-e1bd-f504-3f3a3f606a08&quot; id=&quot;linkd1af23cc-f098-e1bd-f504-3f3a3f606a08&quot; class=&quot;exe-tooltip definition-tt&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;l&lt;/span&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;ecciones&lt;/span&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt; interactivas&lt;/span&gt;&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;a href=&quot;#t27df7fba-9df7-709a-1764-dd344ad03ee6&quot; id=&quot;link27df7fba-9df7-709a-1764-dd344ad03ee6&quot; class=&quot;exe-tooltip definition-tt&quot; style=&quot;color: #3366ff;&quot;&gt;simulaciones electrónicas&lt;/a&gt;,&lt;/span&gt; &lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;a href=&quot;#t1abce7ab-ea68-ff13-6c98-3dc12e74070c&quot; id=&quot;link1abce7ab-ea68-ff13-6c98-3dc12e74070c&quot; class=&quot;exe-tooltip definition-tt&quot; style=&quot;color: #3366ff;&quot;&gt;material de apoyo para el trabajo&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;. Se diferencian entre si en función de su complejidad estructural y la aparición de funcionalidad didáctica explícita, es decir, de diseño instruccional. &lt;/span&gt;&lt;/div&gt;
+&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Los &lt;strong&gt;Objetos Digitales&lt;/strong&gt; o &lt;strong&gt;Recursos de e-learning&lt;/strong&gt; pueden ser&lt;/span&gt; &lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;a href=&quot;#te685aef8-a115-5ce8-0bbc-016afc8a39cb&quot; id=&quot;linke685aef8-a115-5ce8-0bbc-016afc8a39cb&quot; class=&quot;exe-tooltip definition-tt&quot; style=&quot;color: #3366ff;&quot;&gt;recursos simples de aprendizaje&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;#td1af23cc-f098-e1bd-f504-3f3a3f606a08&quot; id=&quot;linkd1af23cc-f098-e1bd-f504-3f3a3f606a08&quot; class=&quot;exe-tooltip definition-tt&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;l&lt;/span&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;ecciones&lt;/span&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt; interactivas&lt;/span&gt;&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;a href=&quot;#t27df7fba-9df7-709a-1764-dd344ad03ee6&quot; id=&quot;link27df7fba-9df7-709a-1764-dd344ad03ee6&quot; class=&quot;exe-tooltip definition-tt&quot; style=&quot;color: #3366ff;&quot;&gt;simulaciones electrónicas&lt;/a&gt;,&lt;/span&gt; &lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;a href=&quot;#t1abce7ab-ea68-ff13-6c98-3dc12e74070c&quot; id=&quot;link1abce7ab-ea68-ff13-6c98-3dc12e74070c&quot; class=&quot;exe-tooltip definition-tt&quot; style=&quot;color: #3366ff;&quot;&gt;material de apoyo para el trabajo&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;. &lt;span style=&quot;color: #000000;&quot;&gt;Se diferencian entre si en función de su complejidad estructural y la aparición de funcionalidad didáctica explícita, es decir, de diseño instruccional. &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot; style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;img src=&quot;resources/blog.png&quot; alt=&quot;&quot; width=&quot;115&quot; height=&quot;91&quot; /&gt; &lt;img src=&quot;resources/wiki.jpg&quot; alt=&quot;&quot; width=&quot;86&quot; height=&quot;92&quot; /&gt;  &lt;img src=&quot;resources/ofimatica.jpg&quot; alt=&quot;&quot; width=&quot;259&quot; height=&quot;86&quot; /&gt;  &lt;img src=&quot;resources/creacion_y_edicion.jpg&quot; alt=&quot;&quot; width=&quot;106&quot; height=&quot;85&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;Según su tipo podemos clasificar los objetos en:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;&lt;span style=&quot;float: none; background-color: #ffffff; color: #000000; cursor: text; font-family: 'Encode Sans', Arial, Helvetica, sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;&quot;&gt;Según su tipo podemos clasificar los objetos en:&lt;/span&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;MEDIA&lt;/h2&gt;
-&lt;p&gt;Fotografía, ilustración, Vídeo, Animación, Música, Efecto sonoro, Locución, Audio compuesto, Texto narrativo, Hipertexto, Grafismo, Media Integrado (combinación de medias).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Fotografía, ilustración, Vídeo, Animación, Música, Efecto sonoro, Locución, Audio compuesto, Texto narrativo, Hipertexto, Grafismo, Media Integrado (combinación de medias).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;SISTEMA DE REPRESENTACIÓN DE INFORMACIÓN Y/O CONOCIMIENTO&lt;/h2&gt;
-&lt;p&gt;Objetos con mayor complejidad estructural-funcional que los MEDIA pero sin diseño instruccional: Base de datos, Tabla, Gráfico, Mapa conceptual, Mapa de navegación, Presentación multimedia, Tutorial, Diccionario digital, Enciclopedia digital, Publicación digital periódica, web/portal temático, Wiki, Weblog.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Objetos con mayor complejidad estructural-funcional que los MEDIA pero sin diseño instruccional: Base de datos, Tabla, Gráfico, Mapa conceptual, Mapa de navegación, Presentación multimedia, Tutorial, Diccionario digital, Enciclopedia digital, Publicación digital periódica, web/portal temático, Wiki, Weblog.&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;APLICACIÓN INFORMÁTICA Y SERVICIO&lt;/h2&gt;
-&lt;p&gt;Objetos que de igual forma no tienen un diseño instruccional, son Herramientas y Servicios que permiten crear componentes multimedia, por ejemplo para: creación/edición multimedia, creación/edición web,  ofimática,  programación,  análisis/organización de información/conocimiento, apoyo a procesos/procedimientos, gestión de aprendizaje/trabajo individual/cooperativo/colaborativo.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Objetos que de igual forma no tienen un diseño instruccional, son Herramientas y Servicios que permiten crear componentes multimedia, por ejemplo para: creación/edición multimedia, creación/edición web,  ofimática,  programación,  análisis/organización de información/conocimiento, apoyo a procesos/procedimientos, gestión de aprendizaje/trabajo individual/cooperativo/colaborativo.&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;Adicional a estos tres, está el &lt;strong&gt;CONTENIDO DIDÁCTICO,&lt;/strong&gt; un tipo de objeto digital que se diferencia de los del tipo MEDIA, SISTEMAS DE REPRESENTACIÓN, APLICACIÓN Y SERVICIOS por la inclusión de un diseño instruccional. Este contenido incluye una o varias estrategias de aprendizaje: Expositivo, basado en casos. basado en problemas,  por actuación simulada situada, basado en proyectos, colaborativo, investigación-acción.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;Entre ellos se encuentran: Lecturas guiadas, lección magistral, comentario de texto-imagen, cuestionario, actividad de discusión, ejercicio o problema cerrado, caso contextualizado, problema abierto, escenario real o virtual de aprendizaje, juego didáctico, autoevaluación, webquest, experimento, simulación, proyecto real.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;float: none; background-color: #ffffff; color: #000000; cursor: text; font-family: 'Encode Sans', Arial, Helvetica, sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;&quot;&gt;Adicional a estos tres, está el &lt;strong&gt;CONTENIDO DIDÁCTICO,&lt;/strong&gt; un tipo de objeto digital que se diferencia de los del tipo MEDIA, SISTEMAS DE REPRESENTACIÓN, APLICACIÓN Y SERVICIOS por la inclusión de un diseño instruccional. Este contenido incluye una o varias estrategias de aprendizaje: Expositivo, basado en casos. basado en problemas,  por actuación simulada situada, basado en proyectos, colaborativo, investigación-acción.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;float: none; background-color: #ffffff; color: #000000; cursor: text; font-family: 'Encode Sans', Arial, Helvetica, sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;&quot;&gt;Entre ellos se encuentran: Lecturas guiadas, lección magistral, comentario de texto-imagen, cuestionario, actividad de discusión, ejercicio o problema cerrado, caso contextualizado, problema abierto, escenario real o virtual de aprendizaje, juego didáctico, autoevaluación, webquest, experimento, simulación, proyecto real.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;background-color: #ffffff;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div id=&quot;te685aef8-a115-5ce8-0bbc-016afc8a39cb&quot; class=&quot;exe-tooltip-text&quot;&gt;
@@ -3114,7 +3220,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                               <instance class="exe.engine.field.TextField">
                                                <dictionary>
                                                 <string role="key" value="_id"></string>
-                                                <int value="589"></int>
+                                                <int value="1055"></int>
                                                 <string role="key" value="_idevice"></string>
                                                 <none></none>
                                                 <string role="key" value="_instruc"></string>
@@ -3128,7 +3234,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                </dictionary>
                                               </instance>
                                               <string role="key" value="_id"></string>
-                                              <unicode value="4_116_2.99"></unicode>
+                                              <unicode value="4_116_2.110"></unicode>
                                               <string role="key" value="_imageResource"></string>
                                               <instance class="exe.engine.resource.Resource" reference="53">
                                                <dictionary>
@@ -3139,7 +3245,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                 <string role="key" value="_storageName"></string>
                                                 <string value="blog.png"></string>
                                                 <string role="key" value="_userName"></string>
-                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\blog.png"></string>
+                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\blog.png"></string>
                                                 <string role="key" value="checksum"></string>
                                                 <string value="149046f2cc808a7f02035846aa8baf0f"></string>
                                                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3166,7 +3272,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                               <instance class="exe.engine.field.TextField">
                                                <dictionary>
                                                 <string role="key" value="_id"></string>
-                                                <int value="592"></int>
+                                                <int value="1057"></int>
                                                 <string role="key" value="_idevice"></string>
                                                 <none></none>
                                                 <string role="key" value="_instruc"></string>
@@ -3180,7 +3286,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                </dictionary>
                                               </instance>
                                               <string role="key" value="_id"></string>
-                                              <unicode value="4_116_2.100"></unicode>
+                                              <unicode value="4_116_2.111"></unicode>
                                               <string role="key" value="_imageResource"></string>
                                               <instance class="exe.engine.resource.Resource" reference="54">
                                                <dictionary>
@@ -3191,7 +3297,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                 <string role="key" value="_storageName"></string>
                                                 <string value="creacion_y_edicion.jpg"></string>
                                                 <string role="key" value="_userName"></string>
-                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\creacion_y_edicion.jpg"></string>
+                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\creacion_y_edicion.jpg"></string>
                                                 <string role="key" value="checksum"></string>
                                                 <string value="d3a197e7a8428b6cd928c79d16599b7d"></string>
                                                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3218,7 +3324,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                               <instance class="exe.engine.field.TextField">
                                                <dictionary>
                                                 <string role="key" value="_id"></string>
-                                                <int value="602"></int>
+                                                <int value="1070"></int>
                                                 <string role="key" value="_idevice"></string>
                                                 <none></none>
                                                 <string role="key" value="_instruc"></string>
@@ -3232,7 +3338,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                </dictionary>
                                               </instance>
                                               <string role="key" value="_id"></string>
-                                              <unicode value="4_116_2.101"></unicode>
+                                              <unicode value="4_116_2.112"></unicode>
                                               <string role="key" value="_imageResource"></string>
                                               <instance class="exe.engine.resource.Resource" reference="55">
                                                <dictionary>
@@ -3243,7 +3349,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                 <string role="key" value="_storageName"></string>
                                                 <string value="multimedia3.png"></string>
                                                 <string role="key" value="_userName"></string>
-                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\multimedia3.png"></string>
+                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\multimedia3.png"></string>
                                                 <string role="key" value="checksum"></string>
                                                 <string value="b9728f005dd22cbf31467f4534ef4b4a"></string>
                                                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3270,7 +3376,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                               <instance class="exe.engine.field.TextField">
                                                <dictionary>
                                                 <string role="key" value="_id"></string>
-                                                <int value="603"></int>
+                                                <int value="1071"></int>
                                                 <string role="key" value="_idevice"></string>
                                                 <none></none>
                                                 <string role="key" value="_instruc"></string>
@@ -3284,7 +3390,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                </dictionary>
                                               </instance>
                                               <string role="key" value="_id"></string>
-                                              <unicode value="4_116_2.102"></unicode>
+                                              <unicode value="4_116_2.113"></unicode>
                                               <string role="key" value="_imageResource"></string>
                                               <instance class="exe.engine.resource.Resource" reference="56">
                                                <dictionary>
@@ -3295,7 +3401,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                 <string role="key" value="_storageName"></string>
                                                 <string value="ofimatica.jpg"></string>
                                                 <string role="key" value="_userName"></string>
-                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\ofimatica.jpg"></string>
+                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\ofimatica.jpg"></string>
                                                 <string role="key" value="checksum"></string>
                                                 <string value="b9f1593565cbb3a47faef6817a58cded"></string>
                                                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3322,7 +3428,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                               <instance class="exe.engine.field.TextField">
                                                <dictionary>
                                                 <string role="key" value="_id"></string>
-                                                <int value="606"></int>
+                                                <int value="1077"></int>
                                                 <string role="key" value="_idevice"></string>
                                                 <none></none>
                                                 <string role="key" value="_instruc"></string>
@@ -3336,7 +3442,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                </dictionary>
                                               </instance>
                                               <string role="key" value="_id"></string>
-                                              <unicode value="4_116_2.103"></unicode>
+                                              <unicode value="4_116_2.114"></unicode>
                                               <string role="key" value="_imageResource"></string>
                                               <instance class="exe.engine.resource.Resource" reference="57">
                                                <dictionary>
@@ -3347,7 +3453,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                 <string role="key" value="_storageName"></string>
                                                 <string value="wiki.jpg"></string>
                                                 <string role="key" value="_userName"></string>
-                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmprkbklb\\wiki.jpg"></string>
+                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\wiki.jpg"></string>
                                                 <string role="key" value="checksum"></string>
                                                 <string value="bde0b10ee1bd5e170653cae78edb1405"></string>
                                                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3376,7 +3482,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                          <string role="key" value="intlinks_to_anchors"></string>
                                          <dictionary></dictionary>
                                          <string role="key" value="nextImageId"></string>
-                                         <int value="105"></int>
+                                         <int value="115"></int>
                                          <string role="key" value="parentNode"></string>
                                          <reference key="52"></reference>
                                         </dictionary>
@@ -3497,15 +3603,15 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Las actividades deben combinar dos elementos esenciales: &lt;strong&gt;el nivel de desempeño previsto&lt;/strong&gt; y &lt;strong&gt;el contenido de aprendizaje. &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Para la descripción de la actividad considere:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;La lectura del artículo Propuesta de buenas prácticas de educación virtual en el contexto universitario.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;El dominio cognitivo según el&lt;/span&gt; &lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;a href=&quot;https://drive.google.com/file/d/1wqYq4wFfMX0So8Vqyrrk5W1h4eeB5Gm-/view?usp=sharing&quot; style=&quot;color: #3366ff;&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;gráfico de verbos de la Taxonomía de Bloom, &lt;/a&gt;&lt;span style=&quot;color: #000000;&quot;&gt;para seleccionar el posible  tipo de actividad y herramientas.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;La estrategia&lt;/span&gt; &lt;a href=&quot;https://drive.google.com/file/d/1tRAv9vae9kZ8PCa_DcWLRYz8Usdx5fTh/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;de aprendizaje&lt;/a&gt; y &lt;a href=&quot;https://drive.google.com/file/d/10lfF9SK4RqLyOPYY33ajtMKsajr_UxyV/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;de formación&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;que desea utilizar. Para un ambiente virtual, considere preferentemente una estrategia de aprendizaje activo, el cuál puede combinar con una Tradicional / Expositivo que pueda llevarse a cabo también de forma virtual.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;La lectura del artículo &lt;strong&gt;&lt;a href=&quot;https://drive.google.com/file/d/1JXCe_6Hwx8SpnWtXQs_2kKThLfiJrhOd/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span style=&quot;color: #008080;&quot;&gt;Propuesta de buenas prácticas de educación virtual&lt;/span&gt; &lt;/a&gt;&lt;/strong&gt;en el contexto universitario.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;El dominio cognitivo según el&lt;/span&gt; &lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;color: #008080;&quot;&gt;&lt;a href=&quot;https://drive.google.com/file/d/1wqYq4wFfMX0So8Vqyrrk5W1h4eeB5Gm-/view?usp=sharing&quot; style=&quot;color: #008080;&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;gráfico de verbos de la Taxonomía de Bloom&lt;/strong&gt;, &lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;para seleccionar el posible  tipo de actividad y herramientas.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;La estrategia&lt;/span&gt; &lt;span style=&quot;color: #008080;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://drive.google.com/file/d/1tRAv9vae9kZ8PCa_DcWLRYz8Usdx5fTh/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; style=&quot;color: #008080;&quot;&gt;de aprendizaje&lt;/a&gt; &lt;/strong&gt;&lt;/span&gt;y &lt;strong&gt;&lt;span style=&quot;color: #008080;&quot;&gt;&lt;a href=&quot;https://drive.google.com/file/d/10lfF9SK4RqLyOPYY33ajtMKsajr_UxyV/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; style=&quot;color: #008080;&quot;&gt;de formación&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt; &lt;span style=&quot;color: #000000;&quot;&gt;que desea utilizar. Para un ambiente virtual, considere preferentemente una estrategia de aprendizaje activo, el cuál puede combinar con una Tradicional / Expositivo que pueda llevarse a cabo también de forma virtual.&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Establecer Título que refleje la actividad que desarrollará el estudiante: Tipo de actividad y tema de que se trata.&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Redacción centrada en el estudiante, donde se describa lo que se desea que realice el alumno según las directrices consideradas para ello. Iniciar redacción con verbo en infinitivo.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Establecer la información correspondiente a la actividad en una tabla que contenga los elementos requeridos para una Secuencia Didáctica: Actividad de Aprendizaje, Tipo de actividad, Recursos y Criterios de evaluación. Puede apoyarse en el documento &lt;span style=&quot;color: #008080;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://drive.google.com/file/d/1bYtUAtizyGWvJuu0qhPBGas7YDdn_FfJ/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; style=&quot;color: #008080;&quot;&gt;EJEMPLO DE DISEÑO DE ACTIVIDAD&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; p&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;ara que realice la distribución de estos datos.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Enviar la evidencia de esta actividad, a través del área establecida para ello en la Plataforma Educativa Virtual Institucional, tomando en cuenta las especificaciones de la Rúbrica de Reporte Escrito establecida en página &lt;a href=&quot;https://ues.mx/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;UES&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Enviar la evidencia de esta actividad, a través del área establecida para ello en la Plataforma Educativa Virtual Institucional, tomando en cuenta las especificaciones de la Rúbrica de Reporte Escrito establecida en página &lt;a href=&quot;https://ues.mx/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #008080;&quot;&gt;UES&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                                          <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                          <int value="4"></int>
                                          <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3525,7 +3631,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                               <instance class="exe.engine.field.TextField">
                                                <dictionary>
                                                 <string role="key" value="_id"></string>
-                                                <int value="613"></int>
+                                                <int value="1058"></int>
                                                 <string role="key" value="_idevice"></string>
                                                 <none></none>
                                                 <string role="key" value="_instruc"></string>
@@ -3539,7 +3645,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                </dictionary>
                                               </instance>
                                               <string role="key" value="_id"></string>
-                                              <unicode value="23_110_2.0"></unicode>
+                                              <unicode value="23_110_2.2"></unicode>
                                               <string role="key" value="_imageResource"></string>
                                               <instance class="exe.engine.resource.Resource" reference="60">
                                                <dictionary>
@@ -3550,7 +3656,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                 <string role="key" value="_storageName"></string>
                                                 <string value="diseno.gif"></string>
                                                 <string role="key" value="_userName"></string>
-                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp248zop.eXe\\previews\\allyourbase\\dise\xc3\xb1o.gif"></string>
+                                                <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpb21l1x\\diseno.gif"></string>
                                                 <string role="key" value="checksum"></string>
                                                 <string value="86d96d183d32cf99432b3d806b2a42fe"></string>
                                                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3582,7 +3688,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                           <reference key="42"></reference>
                                          </dictionary>
                                          <string role="key" value="nextImageId"></string>
-                                         <int value="1"></int>
+                                         <int value="3"></int>
                                          <string role="key" value="parentNode"></string>
                                          <reference key="52"></reference>
                                         </dictionary>
@@ -3639,7 +3745,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                  </instance>
                                 </dictionary>
                                 <string role="key" value="nextImageId"></string>
-                                <int value="45"></int>
+                                <int value="53"></int>
                                 <string role="key" value="parentNode"></string>
                                 <reference key="61"></reference>
                                </dictionary>
@@ -3668,6 +3774,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                               <reference key="62"></reference>
                               <reference key="63"></reference>
                               <reference key="64"></reference>
+                              <reference key="65"></reference>
                              </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
@@ -3698,7 +3805,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                         </instance>
                        </dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="7"></int>
+                       <int value="11"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="42"></reference>
                       </dictionary>
@@ -3724,14 +3831,14 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     <bool value="1"></bool>
                     <string role="key" value="userResources"></string>
                     <list>
-                     <reference key="65"></reference>
                      <reference key="66"></reference>
+                     <reference key="67"></reference>
                     </list>
                     <string role="key" value="version"></string>
                     <int value="0"></int>
                    </dictionary>
                   </instance>
-                  <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="67">
+                  <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="68">
                    <dictionary>
                     <string role="key" value="_title"></string>
                     <unicode value="Recurso de Apoyo para la Actividad"></unicode>
@@ -3756,12 +3863,12 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     <string role="key" value="id"></string>
                     <unicode value="24"></unicode>
                     <string role="key" value="introHTML"></string>
-                    <instance class="exe.engine.field.TextAreaField" reference="68">
+                    <instance class="exe.engine.field.TextAreaField" reference="69">
                      <dictionary>
                       <string role="key" value="_id"></string>
                       <int value="82"></int>
                       <string role="key" value="_idevice"></string>
-                      <reference key="67"></reference>
+                      <reference key="68"></reference>
                       <string role="key" value="_instruc"></string>
                       <string value="Instructions"></string>
                       <string role="key" value="_name"></string>
@@ -3771,7 +3878,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                       <string role="key" value="anchors_linked_from_fields"></string>
                       <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
-                      <unicode content="true" value="&lt;p&gt;Para realizar la actividad puede apoyarse en&lt;span style=&quot;color: #008080;&quot;&gt;&lt;strong&gt; &lt;a href=&quot;https://drive.google.com/file/d/1bRSjemVIM5tWdJjUZFls-mtcessV-qQH/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; style=&quot;color: #008080;&quot;&gt;Ejemplo de Análisis&lt;/a&gt;.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;"></unicode>
+                      <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Para realizar la actividad puede apoyarse en&lt;/span&gt;&lt;span style=&quot;color: #008080;&quot;&gt;&lt;strong&gt; &lt;a href=&quot;https://drive.google.com/file/d/1bRSjemVIM5tWdJjUZFls-mtcessV-qQH/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; style=&quot;color: #008080;&quot;&gt;Ejemplo de Análisis&lt;/a&gt;.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                       <int value="4"></int>
                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3786,7 +3893,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                         <string role="key" value=".listitems"></string>
                         <list></list>
                         <string role="key" value="idevice"></string>
-                        <reference key="68"></reference>
+                        <reference key="69"></reference>
                        </dictionary>
                       </instance>
                       <string role="key" value="intlinks_to_anchors"></string>
@@ -3809,7 +3916,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                       <string role="key" value="_id"></string>
                       <int value="81"></int>
                       <string role="key" value="_idevice"></string>
-                      <reference key="67"></reference>
+                      <reference key="68"></reference>
                       <string role="key" value="_instruc"></string>
                       <string value="Show Description"></string>
                       <string role="key" value="_name"></string>
@@ -3869,7 +3976,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                </instance>
               </dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="0"></int>
+              <int value="2"></int>
               <string role="key" value="parentNode"></string>
               <reference key="11"></reference>
              </dictionary>
@@ -3894,7 +4001,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
-           <list></list>
+           <list>
+            <reference key="70"></reference>
+           </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
@@ -3923,13 +4032,13 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
       <reference key="42"></reference>
       <reference key="61"></reference>
       <reference key="52"></reference>
-      <instance class="exe.engine.node.Node" reference="71">
+      <instance class="exe.engine.node.Node" reference="73">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Bibliografía"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="69">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="71">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -3988,12 +4097,12 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="70">
+            <instance class="exe.engine.field.TextAreaField" reference="72">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="112_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="69"></reference>
+              <reference key="71"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -4023,7 +4132,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="70"></reference>
+                <reference key="72"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -4031,7 +4140,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="71"></reference>
+              <reference key="73"></reference>
              </dictionary>
             </instance>
            </list>
@@ -4048,7 +4157,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="71"></reference>
+           <reference key="73"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4092,7 +4201,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
    <unicode role="key" value="4"></unicode>
    <reference key="11"></reference>
    <unicode role="key" value="6"></unicode>
-   <reference key="71"></reference>
+   <reference key="73"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -5353,11 +5462,11 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
   <dictionary>
    <string role="key" value="015ed014bc4d353fb58fd20c0d192901"></string>
    <list>
-    <reference key="63"></reference>
+    <reference key="65"></reference>
    </list>
    <string role="key" value="02e49c22cae6202ea839b46d287332eb"></string>
    <list>
-    <reference key="65"></reference>
+    <reference key="67"></reference>
    </list>
    <string role="key" value="04b0eb78fcdf2c59359c3980c1c11ab1"></string>
    <list>
@@ -5369,7 +5478,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
    </list>
    <string role="key" value="50089b7b60389313790ccd1f1d1d0259"></string>
    <list>
-    <reference key="45"></reference>
+    <reference key="44"></reference>
    </list>
    <string role="key" value="5e10770561c7f597462d080cd09386af"></string>
    <list>
@@ -5382,7 +5491,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
    <string role="key" value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
    <list>
     <reference key="6"></reference>
-    <reference key="44"></reference>
+    <reference key="45"></reference>
    </list>
    <string role="key" value="83e3d459668210d9fb26d23ed31da37c"></string>
    <list>
@@ -5394,7 +5503,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
    </list>
    <string role="key" value="90ccb2064e94de74ca2cb64309338fbd"></string>
    <list>
-    <reference key="64"></reference>
+    <reference key="63"></reference>
    </list>
    <string role="key" value="a1a94e03d0a07949041e358a060e9009"></string>
    <list>
@@ -5430,7 +5539,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
    </list>
    <string role="key" value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
    <list>
+    <reference key="70"></reference>
     <reference key="66"></reference>
+    <reference key="64"></reference>
    </list>
    <string role="key" value="e1269aba4d2774f3afa413317b0899f3"></string>
    <list>
